@@ -1,6 +1,6 @@
 # CUDA Learning Resources
 
-Welcome to the **CUDA Learning Resources** repository! This is a personal project where I will explore CUDA (Compute Unified Device Architecture), learn how to program with it, and share the resources, code snippets, and tutorials I find useful along the way.
+In this repository I will explore CUDA and share the resources, code snippets, and tutorials I find useful along the way.
 
 ## What's Inside
 - Learning materials on CUDA programming
